@@ -20,19 +20,19 @@ Users can choose their favourite category and try to answer as many questions co
 
 ## PC
 
-### Landing Page
-![](https://github.com/tom-morgan00/TOMDb/blob/master/1.png?raw=true)
+### Start
+![](https://github.com/tom-morgan00/Quizy/blob/master/screenshots/1.png?raw=true)
 
-### Search and Results
-![](https://github.com/tom-morgan00/TOMDb/blob/master/4.png?raw=true)
+### Categories
+![](https://github.com/tom-morgan00/Quizy/blob/master/screenshots/2.png?raw=true)
 
-### Details Page
-![](https://github.com/tom-morgan00/TOMDb/blob/master/5.png?raw=true)
+### Question
+![](https://github.com/tom-morgan00/Quizy/blob/master/screenshots/3.png?raw=true)
 
 ## Mobile
 
-### Search Results
-![](https://github.com/tom-morgan00/TOMDb/blob/master/2.png?raw=true)
+### Question
+![](https://github.com/tom-morgan00/Quizy/blob/master/screenshots/4.png?raw=true)
 
-### Details Page
-![](https://github.com/tom-morgan00/TOMDb/blob/master/3.png?raw=true)
+### Score
+![](https://github.com/tom-morgan00/Quizy/blob/master/screenshots/5.png?raw=true)
